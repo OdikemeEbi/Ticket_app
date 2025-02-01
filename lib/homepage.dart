@@ -28,7 +28,7 @@ class _HomepageState extends State<Homepage> {
       appBar: AppBar(
         backgroundColor: Colors.green,
         title: const Text(
-          "Asdin Flutter Demo",
+          "Asdin Flutter Demo App",
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,
