@@ -42,7 +42,7 @@ class _HomepageState extends State<Homepage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Hello World New test',
+              'Hello World, We just created a new branch',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
